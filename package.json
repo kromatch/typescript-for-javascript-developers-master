@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kromatch/typescript-for-javascript-developers-master/issues"
   },
-  "homepage": "https://github.com/kromatch/typescript-for-javascript-developers-master#readme"
+  "homepage": "https://github.com/kromatch/typescript-for-javascript-developers-master#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
